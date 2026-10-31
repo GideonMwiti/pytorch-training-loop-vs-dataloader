@@ -267,3 +267,4 @@ This project is part of the **100 PyTorch Projects in 10 Days** challenge.
 - **GitHub**: [@GideonMwiti](https://github.com/GideonMwiti)
 - **License**: MIT
 - **Milestone Achieved**: **Day 2 Complete (Projects 11–20)** 🎉
+
